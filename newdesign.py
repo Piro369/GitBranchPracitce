@@ -1,1 +1,2 @@
-print('Created a new python file for checking')
+a  = [i for i in range(1,10)]
+print(a)
